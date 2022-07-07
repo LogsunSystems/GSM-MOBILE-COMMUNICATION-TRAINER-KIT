@@ -3,7 +3,7 @@ GSM TRAINER KIT V1.2
 ## Introduction
 Logsun Systems’s GSM TRAINER KIT V1.2 introduces rapidly moving towards the establishment of a Global Village.  Soon, no place will be considered in accessible and data will be available in any corner of the world, probably at the click of a button. The key growth of these proportions has been “Networking. The  Mobile  Trainer  system  provides  the  student  a  platform  to  understand the hardware  and software requirements to implement an GSM Mobile Communication protocols. 
 ## Features and Specifications
-### Hardware Specificati
+### Hardware Specifications
 * Dual band 900 / 1800 MHz GSM / GPRS Modem 
 * Remote control by AT commands (according to GSM 07.07 and GSM 07.05). 
 * Maximum output power 2W for GSM 900: 1W for GSM 1800. 
